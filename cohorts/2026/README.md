@@ -2,7 +2,7 @@
 
 **Duration:** June – November 2026  
 **Format:** Self-paced, open track  
-**Size:** [Insert number of participants]
+**Size:** 50 Builders
 
 ---
 
@@ -21,14 +21,14 @@
 
 - Submission Form: [Insert link]
 - Discord / Community: [Insert link]
-- Participant Tracker: [Insert link]
+- Builder Tracker: [Insert link]
 
 ---
 
 ## Featured Projects
 
-> Volunteer leads: add standout participant projects here after M6 submissions close.
+> Volunteer leads: add standout Builder projects here after M6 submissions close.
 
-| Participant | Project | Live Link |
-|-------------|---------|-----------|
+| Builder | Project | Live Link |
+|---------|---------|-----------|
 | [Name] | [Project title] | [GitHub Pages URL] |

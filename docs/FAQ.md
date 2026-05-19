@@ -51,7 +51,7 @@ The starter kit and CI/CD are set up for Plotly/Matplotlib generating a static H
 Yes. Every tool used in this program is free and open-source.
 
 **Q: Will I get a certificate?**  
-Participants who complete M6 receive a DEP Certified Builder recognition. [Insert details]
+Builders who complete M6 receive the DEP Certified Builder recognition. [Insert details]
 
 **Q: Can I join mid-program?**  
 [Insert policy here]

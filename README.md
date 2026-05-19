@@ -20,7 +20,7 @@ By the end of the program, every participant will have:
 
 This is the **program hub** — it contains the curriculum, weekly resources, and milestone guides.
 
-**Participants:** Follow the phase folders in order. Each week folder has resources, tasks, and links.
+**Builders:** Follow the phase folders in order. Each week folder has resources, tasks, and links.
 
 **Volunteers:** See [docs/VOLUNTEER_GUIDE.md](docs/VOLUNTEER_GUIDE.md) for your role and responsibilities.
 
@@ -89,4 +89,4 @@ See [docs/VOLUNTEER_GUIDE.md](docs/VOLUNTEER_GUIDE.md) for role descriptions, re
 
 ---
 
-*Built by the DAI Community. Free and open. Always.*
+*Built by Data Engineering Pilipinas. Free and open. Always.*

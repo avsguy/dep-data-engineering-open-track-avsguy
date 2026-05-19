@@ -2,7 +2,7 @@
 
 > Volunteers don't teach. They enable.
 
-The program runs on milestones, not lectures. Your job is to create the conditions for participants to learn — not to spoon-feed answers.
+The program runs on milestones, not lectures. Your job is to create the conditions for Builders to learn — not to spoon-feed answers.
 
 ---
 
@@ -17,7 +17,7 @@ Find and organize learning resources (videos, articles, docs) for each week. You
 - Flag outdated or broken links
 
 ### Milestone Reviewers
-Review participant submissions using the checklist in [MILESTONE_CHECKLIST.md](MILESTONE_CHECKLIST.md). Give a Pass or Improve verdict.
+Review Builder submissions using the checklist in [MILESTONE_CHECKLIST.md](MILESTONE_CHECKLIST.md). Give a Pass or Improve verdict.
 
 **Tasks:**
 - Check submissions within 3–5 days of the deadline
@@ -33,12 +33,12 @@ Keep the Discord healthy. Answer questions async. Encourage progress.
 - Surface common questions to the program lead
 
 ### Squad Guides *(Optional)*
-Paired with stuck participants. Limited slots. Only for participants who are blocked, not those who are slow.
+Paired with stuck Builders. Limited slots. Only for Builders who are blocked, not those who are slow.
 
 **Tasks:**
 - One check-in per week (async DM is fine)
 - Help unblock — don't do the work for them
-- Escalate to program lead if a participant is at risk of dropping out
+- Escalate to program lead if a Builder is at risk of dropping out
 
 ---
 
@@ -56,7 +56,7 @@ Paired with stuck participants. Limited slots. Only for participants who are blo
 ## What Volunteers Do NOT Do
 
 - Run live lectures or synchronous sessions
-- Write code for participants
+- Write code for Builders
 - Approve late submissions outside the policy
 - Make unilateral changes to the curriculum repo
 
